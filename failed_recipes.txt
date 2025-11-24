@@ -1,0 +1,251 @@
+Kanji Vada
+Tandoori Roti
+Idiyappam
+Mochar Ghonto
+Fish Tenga (Tangy Fish Curry)
+Pork Vindaloo
+Chironji Ki Barfi
+Fish Cooked in Banana Leaf (Tripura)
+Rice Beer (Apong)
+Sticky Rice with Sesame
+Black Rice Pulao
+Samosa
+Bread Pakora
+Pakora (Onion Fritters)
+Mirchi Bajji
+Cutlet
+Kathi Roll
+Egg Roll
+Paneer Roll
+Chicken Roll
+Momo Soup
+Tikki Chole
+Dahi Puri
+Sev Batata Puri
+Aloo Chat
+Corn Chaat
+Masala Peanuts
+Chana Jor Garam
+Keema Pav
+Anda Bhurji Pav
+Veg Puff
+Egg Puff
+Chicken Puff
+Schezwan Dosa
+Paneer Frankie
+Egg Frankie
+Pav Sandwich
+Veg Burger (Indian Style)
+Chinese Bhel
+Manchurian Fried Rice
+Tawa Pulao
+Hakka Noodles
+Gobi 65
+Paneer 65
+Masala Maggie
+Veg Momos Fried
+Steamed Momos
+Tandoori Momos
+Spring Rolls
+Paneer Chilli Dry
+Tandoori Naan
+Tawa Roti
+Missi Roti
+Methi Paratha
+Lachha Paratha
+Rumali Roti
+Tandoori Kulcha
+Bhakri
+Phulka
+Jowar Roti
+Bajra Roti
+Poori
+Lucchi
+Khoba Roti
+Sheermal
+Taftan
+Rumali Naan
+Lucknowi Biryani
+Calcutta Biryani
+Sindhi Biryani
+Kolkata Chicken Biryani
+Thalassery Biryani
+Beef Biryani Kerala
+Ambur Biryani
+Arcot Mutton Biryani
+Kacchi Biryani
+Mughlai Biryani
+Yakhni Pulao
+Vegetable Fried Rice
+Jeera Rice
+Ghee Rice
+Coconut Rice
+Peas Pulao
+Tawa Rice
+Veg Dum Biryani
+Egg Biryani
+Mushroom Biryani
+Jackfruit Biryani
+Paneer Biryani
+Paneer Pakora
+Corn Pakora
+Spinach Pakora
+Aloo Bonda
+Veg Cutlet
+Mutton Cutlet
+Fish Cutlet
+Chicken Pakora
+Prawn Koliwada
+Chicken Lollipop
+Mutton Seekh Roll
+Veg Manchurian Dry
+Honey Chilli Potato
+Paneer Chilli Gravy
+Cabbage Pakora
+Bread Cutlet
+Moong Dal Pakodi
+Vegetable Samosa
+Mutton Shami Kebab
+Hara Bhara Kebab
+Dal Tadka
+Dal Makhani
+Panchmel Dal (Five Lentil Dal)
+Moong Dal Tadka
+Masoor Dal
+Gajar Ka Halwa
+Jalebi
+Gulab Jamun
+Kheer (Rice Pudding)
+Rasmalai
+Mango Lassi
+Masala Chai
+Kulfi
+Besan Ladoo
+Rava Ladoo
+Motichoor Ladoo
+Boondi Ladoo
+Kaju Katli
+Badam Halwa
+Sooji Halwa
+Moong Dal Halwa
+Atta Halwa
+Payasam
+Ada Pradhaman
+Parippu Payasam
+Chenna Murki
+Mohanthal
+Basundi
+Shrikhand (Amrakhand)
+Doodh Pak
+Patholi
+Kharvas
+Til Ladoo
+Tilgul
+Nolen Gur Rasgulla
+Rabri
+Falooda
+Ice Halwa
+Kulcha Halwa Combo
+Coconut Barfi
+Dry Fruit Barfi
+Chocolate Barfi
+Anjeer Barfi
+Khoya Peda
+Ras Kadam
+Sondesh (Nolen Gur)
+Cham Cham
+Balushahi
+Malpua
+Imarti
+Kesari Bath
+Halwasan
+Sheer Khurma
+Phirni
+Gond Ke Ladoo
+Tilkut
+Modak (Fried)
+Ukadiche Modak
+Gujiya
+Chhena Jalebi
+Patishapta
+Makhana Kheer
+Kesari Kheer
+Payesh
+Double Ka Meetha
+Shahi Tukda
+Sewaiyan
+Mysore Pak (Soft)
+Obbattu (Holige)
+Puran Poli (Different States)
+Banana Halwa
+Karachi Halwa
+Milk Cake
+Adhirasam
+Filter Coffee
+South Indian Buttermilk (Neer Mor)
+Sweet Lassi
+Salted Lassi
+Badam Milk
+Thandai
+Aam Panna
+Jaljeera
+Shikanji
+Kokum Sharbat
+Sattu Drink
+Nimbu Soda
+Falooda Milkshake
+Cold Coffee
+Masala Milk
+Kesar Pista Milk
+Sol Kadhi
+Sugarcane Juice
+Tender Coconut Water
+Rose Milk
+Paneer Tikka Pizza
+Butter Chicken Pasta
+Tandoori Momos
+Chicken Tikka Wrap
+Paneer Tikka Sandwich
+Masala Corn Toast
+Egg Curry Puff
+Masala Khichdi
+Palak Khichdi
+Sabudana Khichdi
+Moong Dal Khichdi
+Gujarati Khichdi Kadhi
+Bisi Bele Huli Anna
+Veg Stew with Appam
+Upkari (Konkani Dry Veg)
+Pathrode (Colocasia Roll)
+Ghee Roast Chicken
+Prawn Gassi
+Rava Fish Fry
+Kane Rava Fry
+Bangda Curry
+Tisrya Sukka (Clam Curry)
+Patra Ni Macchi
+Mutton Kheema Pav
+Egg Masala Curry
+Bhuna Gosht
+Tandoori Pomfret
+Butter Garlic Crab
+Rohu Fish Curry
+Catla Fish Curry
+Chicken Bharta
+Dum Mutton Curry
+Egg Masala Fry
+Aloo Jeera Dry
+Lauki Chana Dal
+Tinda Masala
+Arbi Fry
+Karela Fry
+Kachumber Salad
+Sprouts Salad
+Raj Kachori
+Veg Hakka Noodles
+Chicken Schezwan Rice
+Paneer Fried Rice
+Corn Fried Rice
+Veg Chowmein
+Egg Noodles
+Gobi Fried Rice
