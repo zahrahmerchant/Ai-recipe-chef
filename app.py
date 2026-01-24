@@ -8,6 +8,10 @@ import random
 import time
 import markdown  # for Markdown -> HTML conversion
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 # --- CONFIGURATION ---
 EMBEDDING_MODEL_NAME = 'all-MiniLM-L6-v2'
 CHROMA_DB_PATH = "./chroma_db"
@@ -102,7 +106,7 @@ st.markdown(
 )
 
 # --- GEMINI API SETUP ---
-API_KEY = "AIzaSyAQrHoZnsvqdows75cRaqkFgGk0JQZ_fRs"  # ⬅️ put your actual key here
+API_KEY = st.secrets["GEMINI_API_KEY"]
 
 try:
     if API_KEY:
