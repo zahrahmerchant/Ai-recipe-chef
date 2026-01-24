@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+import google.genai as genai
 from sentence_transformers import SentenceTransformer
 import chromadb
 import json
@@ -110,7 +110,7 @@ API_KEY = st.secrets["GEMINI_API_KEY"]
 
 try:
     if API_KEY:
-        genai.configure(api_key=API_KEY)
+        genai.Client(api_key=API_KEY)
     model = genai.GenerativeModel(GENERATION_MODEL_NAME)
 except Exception as e:
     st.error(f"Error initializing Gemini. Check API Key. {e}")
@@ -155,7 +155,7 @@ def get_resources():
     if collection.count() == 0:
         populate_database(collection, embedding_model)
 
-    return embedding_model, collection
+    return embedding_model, collection, client
 
 
 @st.cache_data
@@ -194,7 +194,7 @@ def populate_database(collection, model):
 
 # --- CORE HELPERS ---
 def retrieve_recipes(query, k=3):
-    embedding_model, collection = get_resources()
+    embedding_model, collection, _ = get_resources()
     query_embedding = embedding_model.encode([query]).tolist()
 
     results = collection.query(
@@ -235,7 +235,7 @@ Create the recipe now:
     try:
         response = model.generate_content(
             prompt,
-            generation_config=genai.types.GenerationConfig(temperature=temp),
+            generation_config=genai.GenerationConfig(temperature=temp),
         )
         if not response or not hasattr(response, "text"):
             return "Recipe generation failed. Please try again."
