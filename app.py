@@ -8,9 +8,13 @@ import random
 import time
 import markdown  # for Markdown -> HTML conversion
 
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+try:
+    import pysqlite3
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    # This handles the local environment where you might not have pysqlite3 installed
+    pass
 
 # --- CONFIGURATION ---
 EMBEDDING_MODEL_NAME = 'all-MiniLM-L6-v2'
